@@ -1,0 +1,31 @@
+a:link {
+	font-size: 20px;
+	color: white;
+}
+
+a:visited {
+	font-size: 20px;
+	color: white;
+}
+
+a:hover {
+	font-size: 20px;
+	color: white;
+}
+
+a:active {
+	font-size: 20px;
+	color: white;
+}
+
+.live-stream-body {
+	background-color: black;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+
+.main-body {
+	background-color: black;
+	overflow: hidden;
+}
