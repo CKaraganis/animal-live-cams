@@ -2,7 +2,7 @@
 A website that uses iframes to display various live stream web cams
 
 # Link
-https://ckaraganis.github.io/animal-live-cams/
+[https://ckaraganis.github.io/animal-live-cams/](https://live-animals.ckaraganis.com/)
 
 # Stream Ids
 Otters - abbR-Ttd-cA
